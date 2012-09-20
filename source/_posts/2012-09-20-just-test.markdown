@@ -1,0 +1,7 @@
+---
+layout: post
+title: "just test"
+date: 2012-09-20 22:14
+comments: true
+categories: 
+---
